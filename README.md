@@ -1,10 +1,11 @@
 # List of Conferences - 2023
-**topics:**  `data science`, `machine learning`, `deep learning` , `research` , `python` , `Rstats` , `technology`
+**Topics:**  `healthcare`, `agriculture`, `energy`, `bioinformatics`, `biosensors`, `data science`, `machine learning`, `deep learning` , `research` , `python` , `Rstats` , `technology`
 
 ## List of great ML/AI conferences!
 
-Hello folks! 
-Let me know if we missed any important conference here!
+Hello folks! We have tried to add Top Tier Conferences both Internationally and Domestic.
+Let us know if we missed any important conference here!
+
 
 ### [Machine learning]()
 
